@@ -6,7 +6,7 @@ Fork this repo!
 
 Goal
 --------------------
-Build a tool that deploy a Flask API using Docker. 
+Build a tool that deploys a Flask API using Docker. 
 
 ### Requirements
 * Each docker container must include a Flask API.
